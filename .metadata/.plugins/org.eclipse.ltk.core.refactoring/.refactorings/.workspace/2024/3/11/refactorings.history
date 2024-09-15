@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;ebookstore-Consumer-Eureka-Feign&apos;" deleteContents="false" description="Delete resource &apos;ebookstore-Consumer-Eureka-Feign&apos;" element1="/ebookstore-Consumer-Eureka-Feign" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1710536079205"/>
+</session>

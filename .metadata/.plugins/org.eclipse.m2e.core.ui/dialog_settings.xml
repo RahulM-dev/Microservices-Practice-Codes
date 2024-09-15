@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-ApiGateway-Eureka"/>
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-ApiGateway"/>
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-Consumer-Eureka-Feign-Hystrix"/>
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-Consumer-Eureka-Ribbon-Hystrix\ebookstore-Consumer-Eureka-Ribbon-Hystrix"/>
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-Consumer-Eureka-Feign"/>
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-Consumer-Eureka-Ribbon"/>
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-eurekaserver"/>
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-configserver"/>
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\eBookstoreApp\eBookstoreApp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\mishr\Documents\workspace-spring-tool-suite-4-4.21.1.RELEASE\ebookstore-configserver\src\main\resources\application.properties"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
